@@ -1,0 +1,33 @@
+================================
+
+outlook.office365.com
+
+CSS
+.root-66 {
+    background: #2a2c2d;
+}
+.primarySet-69 {
+    background: #2a2c2d;
+}
+
+._3Ad19uWCrJfZmaKfs-hR2p {
+    background: #2a2c2d;
+}
+
+.R13rCAdCs2xraNrPX7bVq._2oMKOQyAzuF94SkcQgHyme {
+    background: #2a2c2d;
+}
+
+#Pivot51-Tab1 {
+    color: #b5a385;
+}
+
+.ms-Pivot-linkContent {
+    color: #b5a385;
+}
+._17vvGITiYYA5POP68etWGx {
+    color: #b5a385;
+}
+.linkContent-84 {
+    color: #b5a385;
+}

@@ -1,0 +1,1 @@
+C:\aDev\scrcpy\scrcpy-noconsole.exe -s 29f2e0d79805
